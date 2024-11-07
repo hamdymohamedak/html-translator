@@ -21,20 +21,20 @@ Before you begin, make sure you have the following installed:
    git clone https://github.com/hamdymohamedak/html-translator.git
     ```
 2.
-## go to project Folder
+## Go to project Folder
 ```bash 
 cd html-translator
 ```
-## install node_modules  
+## Install node_modules  
 ```bash
 npm install
 ```
-## run project
+## Run project
 ```bash
 node index.js
 ```
 
-## you can change the target file from that code
+## You can change the target file from that code
 ```bash
 translateHtmlFile('index.html', 'output_fr.html');
 ```
