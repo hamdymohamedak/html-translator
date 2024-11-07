@@ -58,4 +58,5 @@ const translateHtmlFile = async (inputPath, outputPath) => {
 };
 
 // Use the function
-translateHtmlFile('index.html', 'output_fr.html');
+//  you can add a output path at another HTML File
+translateHtmlFile('index.html',/*<<From || To>>*/ 'index.html');
