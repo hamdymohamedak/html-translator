@@ -21,14 +21,15 @@ Before you begin, make sure you have the following installed:
    git clone https://github.com/hamdymohamedak/html-translator.git
     ```
 2.
+## go to project Folder
 ```bash 
 cd html-translator
 ```
-3. 
+## install node_modules  
 ```bash
 npm install
 ```
-4.
+## run project
 ```bash
 node index.js
 ```
