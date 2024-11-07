@@ -4,7 +4,10 @@ This project provides a simple tool for translating the content of an HTML file 
 
 ## Description
 
-The script loads an HTML file, extracts all the text content, translates the text from English to French(any), and then saves the translated content to a new HTML file. During the translation process, it displays a progress bar in the console to show the current status and estimated time remaining for completion.
+The script loads an HTML file, extracts all the text content, translates the text from English to French 
+## any language
+
+, and then saves the translated content to a new HTML file. During the translation process, it displays a progress bar in the console to show the current status and estimated time remaining for completion.
 
 ## Prerequisites
 
@@ -34,7 +37,7 @@ npm install
 node index.js
 ```
 
-## You can change the target file from that code
+## You can change the target file from that code at (index.js)
 ```bash
 translateHtmlFile('index.html', 'output_fr.html');
 ```
