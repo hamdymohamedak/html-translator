@@ -17,13 +17,12 @@ Before you begin, make sure you have the following installed:
 - npm (Node package manager): Comes with Node.js
 
 ## Installation
-
-1. Clone this repository to your local machine:
+## Clone this repository to your local machine:
 
    ```bash
    git clone https://github.com/hamdymohamedak/html-translator.git
     ```
-2.
+
 ## Go to project Folder
 ```bash 
 cd html-translator
